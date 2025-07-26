@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello and welcome to my webpage! My name is Samuel Gashu Getahun, and I am currently pursuing my bachelors degree in electrical and computer engineering(Computer stream) Addis Ababa univeristy.
+Hello and welcome to my webpage! My name is Samuel Gashu Getahun, and I'm a Versatile Electrical and Computer Engineer with expertise in AI-driven software development, network architecture, and circuit design. Skilled in creating innovative solutions by integrating cutting-edge AI technologies with efficient hardware systems. Proficient in optimizing communication networks, designing robust circuits, and developing intelligent software to drive advancements across diverse engineering domains
 
 Portfolio 
 ====
